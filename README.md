@@ -16,7 +16,8 @@
 </p>
 
 <h2 align="center">Hey there!!!! This is Abhishek Joshi 👋🤓</h2>
-<p align="justify">I'm an out and out Tech enthusiast, who has recently formed an IT start up to cater the needs of systems.
+<p align="justify">I'm an out and out Tech enthusiast, who has recently formed an IT start up called  
+<a href="https://prismasofts.com">Prismasoft</a> to cater the needs of IT solutions.
 I'm currently pursuing my Masters in IT at Victoria University, Melbourne. I am an NIT Surathkal graduate in Computer Engineering and have previously worked as a Software Engineer at Bank of America.
 I'm currently passionate about JAMstack, PWAs, Headless CMS, Nocode(the irony), Sustainability, Neural Nets, Hugo, S.E.O, Web Performance, Blogging/Vlogging/"Podgging"/Logging, Solving world problems, World Domination and Automation.
 When I'm not developing and building things, you can find me watching things on YouTube, writing articles, watching anime, daydreaming or on my laptop gaming. But most of my days are spent working on projects, listening to LoFi/ChillHop/RainyJazz, studying or watching anime</p>
