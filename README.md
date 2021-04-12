@@ -6,14 +6,12 @@
 
 
 <p align="center">
-<a href="https://stephenajulu.com"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/link-solid.svg"></a>&nbsp;&nbsp;
-<a href="https://facebook.com/stephenajulu"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/facebook-square-brands.svg"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/stephenajulu"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/twitter-square-brands.svg"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/stephenajulu"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/instagram-square-brands.svg"></a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/stephenajulu/"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/linkedin-brands.svg"></a>&nbsp;&nbsp;
-<a href="https://github.com/stephenajulu"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/github-square-brands.svg"></a>&nbsp;&nbsp;
-<a href="mailto:alunje73@pm.me"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/envelope-square-solid.svg"></a>&nbsp;&nbsp;
-<img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/youtube-square-brands.svg"></a>&nbsp;&nbsp;
-<a href="https://medium.com/@stephenajulu"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/medium-brands.svg"></a>&nbsp;&nbsp;
+<a href="https://prismasofts.com"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/link-solid.svg"></a>&nbsp;&nbsp;
+<a href="https://facebook.com/itsabbu"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/facebook-square-brands.svg"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/abhi_jo___/"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/instagram-square-brands.svg"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/joshiabj13/"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/linkedin-brands.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/abbujo"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/github-square-brands.svg"></a>&nbsp;&nbsp;
+<a href="mailto:abhishek@prismasofts.com.au"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/envelope-square-solid.svg"></a>&nbsp;&nbsp;
+<a href="https://prismasoft.medium.com/"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/medium-brands.svg"></a>&nbsp;&nbsp;
 </p>
 ### Hi there 👋
