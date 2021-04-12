@@ -27,7 +27,7 @@
   <li><b>Django</b>: <i>I have worked in a couple of projects with Django.</i></li>
   <li><b>Dot Net/ C#</b>: <i>What I used to use in Bank of America. I primarily worked on creating Windows services.</i></li>
   <li><b>Laravel</b>: <i>I have worked in a couple of projects with Django.</i></li>
-  <li><b>Grails</b>: <i>During my internship, this was the primary stack I was working on at <a href="https://www.linkedin.com/company/deerwalk-inc/">Deerwalk Inc.</></i></li>
+  <li><b>Grails</b>: <i>During my internship, this was the primary stack I was working on at <a href="https://www.linkedin.com/company/deerwalk-inc/">Deerwalk Inc.</a></i></li>
   <li><b>Flutter</b>: <i>Started learning out of curiosity when it launched.</i></li>
   <li><b>Xamarin</b>: <i>Recently, used this for one of my University Projects.</i></li>
   <li><b>Kivy</b>: <i>Recently, used this for one of my University Projects.</i></li>
