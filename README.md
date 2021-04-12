@@ -16,7 +16,7 @@
 </p>
 
 <h2 align="center">Hey there!!!! This is Abhishek Joshi 👋🤓</h2>
-<p align="center">I'm a Front End Web Developer, Graphic Designer, Content Creator and I.T/Cybersecurity Consultant from Kenya.
+<p align="justify">I'm a Front End Web Developer, Graphic Designer, Content Creator and I.T/Cybersecurity Consultant from Kenya.
 I'm currently pursuing my Bsc in IT while working on my company and other projects.
 I'm currently passionate about JAMstack, PWAs, Headless CMS, Nocode(the irony), Sustainability, Neural Nets, Hugo, S.E.O, Web Performance, Blogging/Vlogging/"Podgging"/Logging, Solving world problems, World Domination and Automation.
 When I'm not developing and building things, you can find me watching things on YouTube, writing articles, watching anime, daydreaming or on my laptop gaming. But most of my days are spent working on projects, listening to LoFi/ChillHop/RainyJazz, studying or watching anime</p>
