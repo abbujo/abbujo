@@ -25,6 +25,7 @@
 <ul>
   <li><b>React JS/Native</b>: <i>This, I would say is the Primary Web/Mobile Stack I prefer working in.</i></li>
   <li><b>Django</b>: <i>I have worked in a couple of projects with Django.</i></li>
+  <li><b>Flask</b>: <i>I have worked in a couple of University Projects involving Data Analysis with Flask.</i></li>
   <li><b>Dot Net/ C#</b>: <i>What I used to use in Bank of America. I primarily worked on creating Windows services.</i></li>
   <li><b>Laravel</b>: <i>I have worked in a couple of projects with Django.</i></li>
   <li><b>Grails</b>: <i>During my internship, this was the primary stack I was working on at <a href="https://www.linkedin.com/company/deerwalk-inc/">Deerwalk Inc.</a></i></li>
