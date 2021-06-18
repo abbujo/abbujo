@@ -37,6 +37,7 @@
   <li><b>mongodb</b>: <i></i>Have recently started using it for when firebase's firestore seems a bad choice.</li>
   <li><b>Node JS</b>: <i>Primarily work on Node backends to create services, schedulers, rest apis, etc.</i></li>
   <li><b>JIRA, Git, CI/CD and More</b>: <i>Have been using these SDLC/PM/CM tools for a long long time.</i></li>
+  <li><b>Heroku, Pythonanywhere and More</b>: <i>Have been using these deployment platforms to deploy various websites.</i></li>
 </ul>  
 
 <h2 align="center"> <i> Thanks for visiting 👋🤓 </i></h2>
