@@ -1,18 +1,6 @@
 <!--
 **abbujo/abbujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-
-<p align="center">
-<a href="https://prismasofts.com"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/link-solid.svg"></a>&nbsp;&nbsp;
-<a href="https://facebook.com/itsabbu"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/facebook-square-brands.svg"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/abhi_jo___/"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/instagram-square-brands.svg"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/joshiabj13/"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/linkedin-brands.svg"></a>&nbsp;&nbsp;
-<a href="https://github.com/abbujo"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/github-square-brands.svg"></a>&nbsp;&nbsp;
-<a href="mailto:abhishek@prismasofts.com.au"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/envelope-square-solid.svg"></a>&nbsp;&nbsp;
-<a href="https://prismasoft.medium.com/"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/medium-brands.svg"></a>&nbsp;&nbsp;
-</p>
-
 <h2 align="center">Hey there!!!! This is Abhishek Joshi 👋🤓</h2>
 <p align="justify">I'm an out and out Tech enthusiast and a recent Masters graduate in IT at <a href="https://www.vu.edu.au/">Victoria University</a>, Melbourne. I am a <a href="https://www.nitk.ac.in/">NIT Surathkal</a> graduate in Computer Engineering and have previously worked as a Software Engineer at <a href="https://www.linkedin.com/company/ba-continuum-solutions-private-limited/">Bank of America</a>.
 </p>
