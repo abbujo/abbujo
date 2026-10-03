@@ -1,27 +1,30 @@
-<!--
-**abbujo/abbujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-<h2 align="center">Hey there!!!! This is Abhishek Joshi 👋🤓</h2>
-<p align="justify">I'm an out and out Tech enthusiast and a recent Masters graduate in IT at <a href="https://www.vu.edu.au/">Victoria University</a>, Melbourne. I am a <a href="https://www.nitk.ac.in/">NIT Surathkal</a> graduate in Computer Engineering and have previously worked as a Software Engineer at <a href="https://www.linkedin.com/company/ba-continuum-solutions-private-limited/">Bank of America</a>.
-</p>
+# Hi, I’m Abhishek Joshi 👋
 
-<h2 align="center">I am skilled in</h2>
-<ul>
-  <li><b>React JS/Native</b>: <i>This, I would say is the Primary Web/Mobile Stack I prefer working in.</i></li>
-  <li><b>Django</b>: <i>I have worked in a couple of projects with Django.</i></li>
-  <li><b>Flask</b>: <i>I have worked in a couple of University Projects involving Data Analysis with Flask.</i></li>
-  <li><b>Dot Net/ C#</b>: <i>What I used to use in Bank of America. I primarily worked on creating Windows services.</i></li>
-  <li><b>Laravel</b>: <i>I have worked in a couple of projects with Django.</i></li>
-  <li><b>Grails</b>: <i>During my internship, this was the primary stack I was working on at <a href="https://www.linkedin.com/company/deerwalk-inc/">Deerwalk Inc.</a></i></li>
-  <li><b>Flutter</b>: <i>Started learning out of curiosity when it launched.</i></li>
-  <li><b>Xamarin</b>: <i>Recently, used this for one of my University Projects.</i></li>
-  <li><b>Kivy</b>: <i>Recently, used this for one of my University Projects.</i></li>
-  <li><b>socket.io</b>: <i>Used it on a number of client projects for various purposes such as chat functionality, realtime updates via an api, etc.</i></li>
-  <li><b>firebase</b>: <i></i>Provides complete solution to my small scale projects and yes I like it.</li>
-  <li><b>mongodb</b>: <i></i>Have recently started using it for when firebase's firestore seems a bad choice.</li>
-  <li><b>Node JS</b>: <i>Primarily work on Node backends to create services, schedulers, rest apis, etc.</i></li>
-  <li><b>JIRA, Git, CI/CD and More</b>: <i>Have been using these SDLC/PM/CM tools for a long long time.</i></li>
-  <li><b>Heroku, Pythonanywhere and More</b>: <i>Have been using these deployment platforms to deploy various websites.</i></li>
-</ul>  
+I’m a software engineer and builder with a background in Computer Engineering and a Master of IT from Victoria University. I previously worked as a Software Engineer at Bank of America.
 
-<h2 align="center"> <i> Thanks for visiting 👋🤓 </i></h2>
+I like turning complex workflows into useful software. Much of my recent work sits at the intersection of **financial markets, data, and engineering**: building trading and backtesting systems, exploring historical market data, and creating tools that make technical work faster and more accessible.
+
+## What I’m interested in
+
+- **Algorithmic trading and market systems** — strategy research, backtesting, execution, and risk controls.
+- **Financial data and visualisation** — charting, replaying market history, and making analysis more useful.
+- **Practical developer tools** — especially tools focused on performance, automation, and efficient workflows.
+- **Full-stack product development** — connecting a polished interface to useful backend capabilities.
+
+## Selected projects
+
+- **[Market Replay Lab](https://github.com/abbujo/charting-tool)** — A historical candlestick replay and backtesting tool with multi-timeframe charts, indicators, and safeguards against future-data leakage.
+- **[CodeTraderSystem](https://github.com/abbujo/CodeTraderSystem)** — An algorithmic trading and research system for MetaTrader 5, with multiple strategies, backtesting, and risk controls.
+- **[Aggressor-XAUUSD](https://github.com/abbujo/Aggressor-XAUUSD)** — A gold-trading system exploring strategy rules and wick-based trade management.
+- **[Aggressor-US500](https://github.com/abbujo/Aggressor-US500)** — A US500 trading bot and backtesting toolkit.
+- **[imgpipe](https://github.com/abbujo/imgtool)** — An AVIF image pipeline for batch processing and responsive web assets.
+
+## Skills
+
+**Languages and application development:** Python, TypeScript, JavaScript, C#, React  
+**Markets and data:** MetaTrader 5, MQL5, backtesting, time-series data, charting, trading-system risk controls  
+**Backend and tools:** FastAPI, Flask, Node.js, REST APIs, data processing, image optimisation
+
+I’ve also worked with technologies including React Native, Django, .NET, Laravel, Grails, Flutter, Xamarin, Kivy, Firebase, and MongoDB.
+
+Thanks for visiting—feel free to explore my projects or connect 👋
